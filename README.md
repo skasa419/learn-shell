@@ -1,2 +1,2 @@
 # learn-shell
-where we learn shell scriptiing
+In this repo we will keep the scripting files
