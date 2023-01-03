@@ -6,5 +6,10 @@ class=Devops
 echo name - $name
 echo class - ${class}
 
+#command substitution
 DATE=$(date +%F)
 echo hey, Today date is $DATE
+
+#Arthimatic substitution
+ADD=$((2+3))
+echo ADD - $ADD
