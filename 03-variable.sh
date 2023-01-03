@@ -13,3 +13,6 @@ echo hey, Today date is $DATE
 #Arthimatic substitution
 ADD=$((2+3))
 echo ADD - $ADD
+
+#varaible from command line
+echo d -$d
